@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Rafael, aka Ral!
+Welcome to my GitHub profile! I'm a passionate and experienced developer with over 10 years of experience in web development, focusing on developing and designing scalable. Here's a little bit about me:
+- 🔭 Currently Freelancer
+- 💻 Front-End Developer
+- ✍ Designer Artist 
+- 🎸 Beatmaker and Musician Hobbist
+- 📘 Degree in Systems Analysis & Graphic Design
+- 🎇 Wanting to pursue a postgraduate degree in Data Science
+- 💬 Curious and self-taught as well
+- 🎨 Believing in, Make Good Art, only you do best, doesn’t matter, Make It Count
+- ✉ Contact: <a href="mailto:ralfael.queiroz@live.com">Email</a>
+
 
 <!--
 **Ralfael/ralfael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
