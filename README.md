@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ov
 - 🎇 Wanting to pursue a postgraduate degree in Data Science
 - 💬 Curious and self-taught as well
 - 🎨 Believing in, Make Good Art, only you do best, doesn’t matter, Make It Count
-- ✉ Contact: <a href="mailto:ralfael.queiroz@live.com">Email</a>
+- ✉ Contact: <a href="mailto:ralfael.queiroz@live.com">Email</a> | <a href="https://www.linkedin.com/in/rafael-queiroz-4914a0106/">LinkedIn</a>
 
 
 <!--
