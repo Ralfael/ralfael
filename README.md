@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ov
 - 🍸 Good Drinker Freelance Hobbist at Events
 - 🔪 Cook Enthusiast
 - 🎓 Degree in Systems Analysis & Graphic Design
-- 📘 Progress to postgraduate degree in Data Science
+- 📘 Progress to postgraduate degree in Mobile System Developer
 - 💬 Curious and self-taught as well
 - 🎨 Believin in, Make Good Art, only you do best, doesn’t matter, Make It Count
 - ✉ Contact: <a href="mailto:ralfael.queiroz@live.com">Email</a> | <a href="https://www.linkedin.com/in/rafael-queiroz-4914a0106/">LinkedIn</a>
