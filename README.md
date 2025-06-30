@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ov
 - 💻 Front-End Developer
 - ✍ Designer Artist 
 - 🎸 Beatmaker and Musician Hobbist
-- 🍸 Good Drinker Freelance Hobbist at Events
 - 🔪 Cook Enthusiast
 - 🎓 Degree in Systems Analysis & Graphic Design
 - 📘 Progress to postgraduate degree in Mobile System Developer
