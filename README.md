@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ov
 
 <h2>Developer:</h2>
 
-- Languages: JavaScript, TypeScript, Python
+- Languages: JavaScript, TypeScript, Python, Java, C
 - Frameworks & Libraries: Bootstrap, React JS, Node.js,
 - Database: SQLite, MySQL, MongoDB
 
