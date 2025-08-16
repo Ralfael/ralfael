@@ -12,16 +12,18 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ov
 - ✉ Contact: <a href="mailto:ralfael.queiroz@live.com">Email</a> | <a href="https://www.linkedin.com/in/rafael-queiroz-4914a0106/">LinkedIn</a>
 - 🍃 The Price of Freedom is Step
  
-<h3>🛠️<b> - Technologies & Tools</b></h3>
-
-<h2>Developer:</h2>
-
-- Languages: JavaScript, TypeScript, Python, Java, C
-- Frameworks & Libraries: Bootstrap, React JS, Node.js,
-- Database: SQLite, MySQL, MongoDB
-
-<h2>Design</h2>
-    
+<h2>Developer Skills:</h2>
+<h3>Languages:</h3>
+<!-- <h4>Front-End</h4> -->
+<img src="https://skillicons.dev/icons?i=js,html,css,typescript,php,python,c,arduino,java,kotlin"/>
+<h3>Frameworks & Libraries:</h3>
+<img src="https://skillicons.dev/icons?i=bootstrap,react,spring,django,laravel,nginx,nodejs,vue"/>
+<h3>Databases:</h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
+<h3>Tools:</h3>
+<img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode,visualstudio,docker,atom,androidstudio,postman,powershell,eclipse,figma,gradle,maven,pycharm,idea,sublime,ubuntu,kali"/>
+<h2>Motion and Graphic Design Skills:</h2>
+<img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,autocad"/>   
 <!--
 **Ralfael/ralfael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
