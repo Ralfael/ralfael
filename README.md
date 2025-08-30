@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ov
 <h3>Tools:</h3>
 <img src="https://skillicons.dev/icons?i=git,github,wordpress,vscode,visualstudio,docker,atom,androidstudio,postman,powershell,eclipse,figma,gradle,maven,pycharm,idea,sublime,ubuntu,kali"/>
 <h2>Motion and Graphic Design Skills:</h2>
-<img src="https://skillicons.dev/icons?i=ai,ps,pr,ae,autocad"/>   
+<img src="https://skillicons.dev/icons?i=ai,ps,pr,ae"/>   
 <!--
 **Ralfael/ralfael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
