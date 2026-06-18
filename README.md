@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced developer with ov
 <h2>Developer Skills:</h2>
 <h3>Languages:</h3>
 <!-- <h4>Front-End</h4> -->
-<img src="https://skillicons.dev/icons?i=js,html,css,typescript,php,python,c,arduino,java,kotlin,dart"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,typescript,php,python,c,arduino,java,kotlin,dart,react"/>
 <h3>Frameworks & Libraries:</h3>
 <img src="https://skillicons.dev/icons?i=bootstrap,react,spring,django,laravel,nginx,nodejs,vue,flutter"/>
 <h3>Databases:</h3>
